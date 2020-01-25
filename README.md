@@ -22,12 +22,12 @@ share us your opinion for the upcoming updates.
 
 <br>
 <p align="center">
-  <img src="img1.PNG" width="250" title="hover text">
-  <img src="img2.PNG" width="250" title="hover text">
-  <img src="img3.PNG" width="250" title="hover text">
-  <img src="img4.PNG" width="250" title="hover text">
-  <img src="img5.PNG" width="250" title="hover text">
-  <img src="img6.PNG" width="250" title="hover text">
-  <img src="img7.PNG" width="250" title="hover text">
+  <img src="img1.png" width="250" title="hover text">
+  <img src="img2.png" width="250" title="hover text">
+  <img src="img3.png" width="250" title="hover text">
+  <img src="img4.png" width="250" title="hover text">
+  <img src="img5.png" width="250" title="hover text">
+  <img src="img6.png" width="250" title="hover text">
+  <img src="img7.png" width="250" title="hover text">
 </p>
 </br>
