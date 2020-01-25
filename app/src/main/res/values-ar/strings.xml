@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">زكري</string>
+
+    <string name="azkar_sabah">ازكار الصباح</string>
+    <string name="azkar_masa">ازكار المساء</string>
+    <string name="azan">ازكار الاذان</string>
+    <string name="bathroom">دعاء الخلاء</string>
+    <string name="dead">الدعاء للمتوفي</string>
+    <string name="eat"> عند الطعام</string>
+    <string name="sleep">ازكار النوم</string>
+    <string name="tasbeh">التسابيح</string>
+    <string name="wake">دعاء الاستيقاظ</string>
+    <string name="wodoo">دعاء الوضوء</string>
+    <string name="salah"> بعد الصلاه</string>
+
+    <string name="help">مساعده</string>
+    <string name="setting">الاعدادات</string>
+    <string name="share">مشاركه</string>
+    <string name="about">عن البرنامج</string>
+
+
+    <string name="splash_screen">و اقم الصلاه لذكري</string>
+
+    <string name="title">زكري</string>
+
+
+    <!-- Days -->
+    <string name="monday">الاثنين</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="wednesday">الاربعاء</string>
+    <string name="thursday">الخميس</string>
+    <string name="friday">الجمعه</string>
+    <string name="saturday">السبت</string>
+    <string name="sunday">الاحد</string>
+
+    <!-- Notification -->
+    <string name="channel_name">Simple Alarms</string>
+
+    <string name="edit_alarm">تعديل التنبيه</string>
+    <string name="add_alarm">اضافه وجبه</string>
+
+
+    <string name="about_us">برنامج زكري هو برنامج يمكنك من قراءه الزكار اليوميه والادعيه كما وردت عن الحبيب المصطفي _صلوات ربي وسلامه عليه_ بالاضافه الي التنبيهات اليوميه للاذكار , كما يمكنك اضافه تنبيهاتك الخاصه وللمزيد من المعلومات يمكنك زياره الموقع التالي وشاركنا باقتراحتكم</string>
+    <string name="about_title">عن زكري</string>
+    <string name="language">اللغه</string>
+    <string name="backgrounds">الخلفيات</string>
+
+    <string name="how_to_use1">اسحب الي اليمين و الي اليسار للتنقل بين الادعيه</string>
+    <string name="how_to_use2">قم بتكبير وتصغير حجم الخط ليناسب الرؤيه باستخدام ذر التكبير و التصغير</string>
+    <string name="how_to_use3">يمكنك تغير الاعدادات من القائمه الرئيسيه</string>
+    <string name="how_to_use4">يمكنك تغير اللغه او النمط العام للتطبيق</string>
+
+    <string name="alarm_title">تنبيه عن</string>
+
+    <string name="alarm_details">تفاصيل التنبيه</string>
+    <string name="alarm_days">ايام التنبيه</string>
+    <string name="time">وقت التنبيه</string>
+
+    <string name="my_alarms">تنبيهاتي</string>
+
+    <string name="default_alarm_delete_warning">تنبيه اساسي لا يمكن الحذف</string>
+
+
+    <!-- Tables Names -->
+    <string name="TABLE_SABAH">azkar_sabah_tb</string>
+    <string name="TABLE_MASA">azkar_masa_tb</string>
+    <string name="TABLE_AZAN">azkar_azan_tb</string>
+    <string name="TABLE_BATHROOM">azkar_bathroom_tb</string>
+    <string name="TABLE_DEAD">azkar_dead_tb</string>
+    <string name="TABLE_EAT">azkar_eat_tb</string>
+    <string name="TABLE_SALAH">azkar_salah_tb</string>
+    <string name="TABLE_SLEEP">azkar_sleep_tb</string>
+    <string name="TABLE_TASBEH">azkar_tasbeh_tb</string>
+    <string name="TABLE_WAKE">azkar_wake_tb</string>
+    <string name="TABLE_WODOO">azkar_wodoo_tb</string>
+
+    <string name="coming_soon">قريبا</string>
+
+</resources>

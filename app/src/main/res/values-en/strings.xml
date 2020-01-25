@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zekry</string>
+
+    <string name="azkar_sabah">Day Azkar</string>
+    <string name="azkar_masa">Night Azkar</string>
+    <string name="azan">Azan</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="dead">Deads</string>
+    <string name="eat">Eat</string>
+    <string name="sleep">Sleep</string>
+    <string name="tasbeh">Tasbeeh</string>
+    <string name="wake">Waking Up</string>
+    <string name="wodoo">Ablution Supplications</string>
+    <string name="salah">After Pray</string>
+
+
+    <string name="help">Help</string>
+    <string name="setting">Settings</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+
+
+
+    <string name="splash_screen">و اقم الصلاه لذكري</string>
+    <string name="title">Zekry</string>
+
+
+    <!-- Days -->
+    <string name="monday">monday</string>
+    <string name="tuesday">tuesday</string>
+    <string name="wednesday">wednesday</string>
+    <string name="thursday">thursday</string>
+    <string name="friday">friday</string>
+    <string name="saturday">saturday</string>
+    <string name="sunday">sunday</string>
+
+    <!-- Notification -->
+    <string name="channel_name">Simple Alarms</string>
+
+    <string name="edit_alarm">تعديل التنبيه</string>
+    <string name="add_alarm">اضافه وجبه</string>
+
+
+    <string name="about_us">Zekry is a program that allow you to read day and night azkar as the prophet mohamed was doing before. In addition to daily alarms for Azkars and your personal alarms. for more information you can visit the following site and share us with your opinion</string>
+    <string name="about_title">About Zekry</string>
+    <string name="language">Language</string>
+    <string name="backgrounds">Background</string>
+
+    <string name="how_to_use1">swap left and right to get next and previous Text</string>
+    <string name="how_to_use2">enlarge or get it smaller for the text using the two buttons</string>
+    <string name="how_to_use3">change settings from main menu</string>
+    <string name="how_to_use4">change the language and general them of the app</string>
+
+    <string name="alarm_title">Alarm Title</string>
+
+    <string name="alarm_details">Alarm Details</string>
+    <string name="alarm_days">Alarm Days</string>
+
+    <string name="time">Alarm Time</string>
+
+    <string name="my_alarms">My Alarms</string>
+
+    <string name="default_alarm_delete_warning">Default Alarms Cannot be deleted !</string>
+
+
+    <!-- Tables Names -->
+
+    <!--
+    <string name="TABLE_SABAH">azkar_sabah_en_tb</string>
+    <string name="TABLE_MASA">azkar_masa_en_tb</string>
+    <string name="TABLE_AZAN">azkar_azan_en_tb</string>
+    <string name="TABLE_BATHROOM">azkar_bathroom_en_tb</string>
+    <string name="TABLE_DEAD">azkar_dead_en_tb</string>
+    <string name="TABLE_EAT">azkar_eat_en_tb</string>
+    <string name="TABLE_SALAH">azkar_salah_en_tb</string>
+    <string name="TABLE_SLEEP">azkar_sleep_en_tb</string>
+    <string name="TABLE_TASBEH">azkar_tasbeh_en_tb</string>
+    <string name="TABLE_WAKE">azkar_wake_en_tb</string>
+    <string name="TABLE_WODOO">azkar_wodoo_en_tb</string>
+
+    -->
+
+    <string name="TABLE_SABAH">azkar_sabah_tb</string>
+    <string name="TABLE_MASA">azkar_masa_tb</string>
+    <string name="TABLE_AZAN">azkar_azan_tb</string>
+    <string name="TABLE_BATHROOM">azkar_bathroom_tb</string>
+    <string name="TABLE_DEAD">azkar_dead_tb</string>
+    <string name="TABLE_EAT">azkar_eat_tb</string>
+    <string name="TABLE_SALAH">azkar_salah_tb</string>
+    <string name="TABLE_SLEEP">azkar_sleep_tb</string>
+    <string name="TABLE_TASBEH">azkar_tasbeh_tb</string>
+    <string name="TABLE_WAKE">azkar_wake_tb</string>
+    <string name="TABLE_WODOO">azkar_wodoo_tb</string>
+
+
+    <string name="coming_soon">Coming Soon</string>
+
+
+
+</resources>

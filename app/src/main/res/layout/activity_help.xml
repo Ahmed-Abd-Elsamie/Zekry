@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:layout_gravity="center"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="top"
+        android:gravity="center"
+
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/help"
+            android:textColor="#fff"
+            android:fontFamily="@font/cairoblack"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/how_to_use1"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/help2"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+
+
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/how_to_use2"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/help3"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/how_to_use3"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/help4"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+
+
+            />
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

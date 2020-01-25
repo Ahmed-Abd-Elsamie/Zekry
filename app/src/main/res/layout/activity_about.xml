@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/colorPrimaryDark"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cairoblack"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/about_title"
+            android:layout_margin="10dp"
+            android:textColor="#fff"
+
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cairoblack"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/about_us"
+            android:layout_margin="10dp"
+            android:textColor="#fff"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cairoblack"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/our_url"
+            android:layout_margin="10dp"
+            android:linksClickable="true"
+            android:id="@+id/txt_url"
+            android:textColor="#727aea"
+            android:textSize="18dp"
+
+            />
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

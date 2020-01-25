@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:fontFamily="@font/cairoblack"
+        android:textColor="#fff"
+        android:layout_gravity="right"
+        android:gravity="right"
+        android:id="@+id/txt_desc"
+        android:layout_margin="10dp"
+
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/salah"
+        android:id="@+id/img_food"
+        android:layout_gravity="center"
+
+
+        />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="fill"
+        android:layout_margin="10dp"
+        >
+
+        <Button
+            android:id="@+id/eat_now"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="اذكر الان"
+            tools:text="اذكر الان"
+            android:textColor="#fff"
+            android:fontFamily="@font/cairoblack"
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored" />
+
+        <Button
+            android:id="@+id/not_now"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="مليش نفس"
+            tools:text="مليش نفس"
+            android:textColor="#fff"
+            android:fontFamily="@font/cairoblack"
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored" />
+
+        <Button
+            android:id="@+id/delay_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="نأجلها شويه"
+            tools:text="نأجلها شويه"
+            android:textColor="#fff"
+            android:fontFamily="@font/cairoblack"
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

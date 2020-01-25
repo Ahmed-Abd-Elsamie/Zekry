@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:padding="5dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill"
+        android:gravity="center"
+        android:orientation="vertical"
+
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/azkar_sabah"
+                android:id="@+id/btn_sabah"
+                android:drawableTop="@drawable/sabah"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/azkar_masa"
+                android:id="@+id/btn_masa"
+                android:drawableTop="@drawable/masa"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/azan"
+                android:id="@+id/btn_azan"
+                android:drawableTop="@drawable/azan"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bathroom"
+                android:id="@+id/btn_bathroom"
+                android:drawableTop="@drawable/bath"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/eat"
+                android:id="@+id/btn_eat"
+                android:drawableTop="@drawable/eat"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/salah"
+                android:id="@+id/btn_salah"
+                android:drawableTop="@drawable/salah"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sleep"
+                android:id="@+id/btn_sleep"
+                android:drawableTop="@drawable/sleep"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_gravity="fill"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tasbeh"
+                android:id="@+id/btn_tasbeh"
+                android:drawableTop="@drawable/sebha"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wake"
+                android:id="@+id/btn_wake"
+                android:drawableTop="@drawable/wakingup"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wodoo"
+                android:id="@+id/btn_wodoo"
+                android:drawableTop="@drawable/wodooa"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:layout_columnSpan="2"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dead"
+                android:id="@+id/btn_dead"
+                android:drawableTop="@drawable/dead"
+                android:background="@drawable/btn_shape"
+                android:padding="10dp"
+                android:textColor="#fff"
+                android:layout_margin="5dp"
+                android:textSize="15dp"
+                android:layout_gravity="fill"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:fontFamily="@font/cairoblack"
+
+                />
+
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

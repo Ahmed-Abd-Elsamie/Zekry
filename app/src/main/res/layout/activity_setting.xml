@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/setting"
+        android:fontFamily="@font/cairoblack"
+        android:textColor="#000"
+        android:textSize="20dp"
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_shape"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/language"
+        android:textColor="#fff"
+        android:fontFamily="@font/cairoblack"
+        android:id="@+id/btn_language"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_shape"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/backgrounds"
+        android:textColor="#fff"
+        android:fontFamily="@font/cairoblack"
+        android:id="@+id/btn_theme"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+
+        />
+
+</LinearLayout>
